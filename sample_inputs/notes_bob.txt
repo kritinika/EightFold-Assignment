@@ -1,0 +1,14 @@
+Bob Johnson — initial screen notes
+
+Name: Bob Johnson
+Email: bob.johnson@techco.io
+
+10 years of experience as software engineer and architect. Currently Staff Engineer at TechCo.
+
+Strong in: Golang, Kubernetes, AWS, distributed systems, gRPC, PostgreSQL, Docker
+Also mentioned: Redis, Kafka, Elasticsearch
+
+Looking for principal or director of engineering roles.
+Remote preferred, open to NYC hybrid.
+
+No phone number provided during screen.

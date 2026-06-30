@@ -1,0 +1,5 @@
+full_name,email,phone,current_company,title,location,linkedin,github,skills,summary
+Jane Smith,jane.smith@email.com,+1-415-555-0101,Acme Corp,Senior Software Engineer,"San Francisco, CA, USA",https://linkedin.com/in/janesmith,https://github.com/janesmith,"Python, Django, PostgreSQL, Docker, AWS",Full-stack engineer with 7 years experience building scalable web services.
+Bob Johnson,bob.johnson@techco.io,415.555.0202,TechCo,Staff Engineer,"New York, NY, US",https://linkedin.com/in/bobjohnson,,Go|Kubernetes|AWS|PostgreSQL,
+Alice Chen,alice.chen@startup.com,(650) 555-0303,StartupXYZ,ML Engineer,"Austin, TX, USA",https://linkedin.com/in/alicechen,https://github.com/alicechen89,"Python, TensorFlow, PyTorch, scikit-learn, pandas",AI/ML engineer specializing in production ML systems.
+Carlos Rivera,carlos@example.com,+52-55-1234-5678,OpenSource Inc,Frontend Developer,"Mexico City, MX",https://linkedin.com/in/carlosrivera,https://github.com/crivera,"JavaScript, React, TypeScript, Node.js",

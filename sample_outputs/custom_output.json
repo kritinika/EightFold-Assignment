@@ -1,0 +1,104 @@
+[
+  {
+    "full_name": "Jane Smith",
+    "primary_email": "jane.smith@email.com",
+    "phone": "+14155550101",
+    "linkedin": "https://linkedin.com/in/janesmith",
+    "github": "https://github.com/janesmith",
+    "headline": "Senior Software Engineer at Acme Corp",
+    "years_experience": 7.0,
+    "skills": [
+      "Python",
+      "Django",
+      "SQL",
+      "Docker",
+      "AWS",
+      "REST API",
+      "Git",
+      "Go"
+    ],
+    "current_company": "Acme Corp",
+    "location_country": "US",
+    "overall_confidence": 0.932
+  },
+  {
+    "full_name": "Bob Johnson",
+    "primary_email": "bob.johnson@techco.io",
+    "phone": "+14155550202",
+    "linkedin": "https://linkedin.com/in/bobjohnson",
+    "github": null,
+    "headline": "Staff Engineer at TechCo",
+    "years_experience": 10.0,
+    "skills": [
+      "Go",
+      "Kubernetes",
+      "AWS",
+      "SQL",
+      "Docker",
+      "Grpc"
+    ],
+    "current_company": "TechCo",
+    "location_country": "US",
+    "overall_confidence": 0.932
+  },
+  {
+    "full_name": "Alice Chen",
+    "primary_email": "alice.chen@startup.com",
+    "phone": "+16505550303",
+    "linkedin": "https://linkedin.com/in/alicechen",
+    "github": "https://github.com/alicechen89",
+    "headline": "ML Engineer at StartupXYZ",
+    "years_experience": 5.0,
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-Learn",
+      "Pandas",
+      "NumPy",
+      "Spark"
+    ],
+    "current_company": null,
+    "location_country": "US",
+    "overall_confidence": 0.932
+  },
+  {
+    "full_name": "Carlos Rivera",
+    "primary_email": "carlos@example.com",
+    "phone": "+525512345678",
+    "linkedin": "https://linkedin.com/in/carlosrivera",
+    "github": "https://github.com/crivera",
+    "headline": "Frontend Developer at OpenSource Inc",
+    "years_experience": null,
+    "skills": [
+      "JavaScript",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "current_company": null,
+    "location_country": "MX",
+    "overall_confidence": 0.9
+  },
+  {
+    "full_name": "Dana Park",
+    "primary_email": "dana.park@newco.com",
+    "phone": "+821098765432",
+    "linkedin": null,
+    "github": null,
+    "headline": "DevOps Engineer at NewCo",
+    "years_experience": 4.0,
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "AWS",
+      "Linux",
+      "Python",
+      "Docker",
+      "CI/CD"
+    ],
+    "current_company": null,
+    "location_country": "KR",
+    "overall_confidence": 0.85
+  }
+]

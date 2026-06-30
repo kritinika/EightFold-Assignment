@@ -1,0 +1,95 @@
+[
+  {
+    "candidate_name": "Jane Smith",
+    "emailAddress": "jane.smith@email.com",
+    "phoneNumber": "4155550101",
+    "currentTitle": "Senior Software Engineer",
+    "currentCompany": "Acme Corp",
+    "location": "San Francisco, CA",
+    "linkedinUrl": "https://linkedin.com/in/janesmith",
+    "skillSet": ["Python", "Django", "REST API", "PostgreSQL", "Docker", "AWS", "Git"],
+    "yearsOfExperience": 7,
+    "summary": "Experienced backend engineer focused on Python and cloud infrastructure.",
+    "workHistory": [
+      {
+        "company": "Acme Corp",
+        "jobTitle": "Senior Software Engineer",
+        "startDate": "2021-03",
+        "endDate": "Present",
+        "description": "Led backend API development for core platform."
+      },
+      {
+        "company": "Previous Inc",
+        "jobTitle": "Software Engineer",
+        "startDate": "2018-06",
+        "endDate": "2021-02",
+        "description": "Built microservices with Python and Docker."
+      }
+    ],
+    "educationHistory": [
+      {
+        "school": "UC Berkeley",
+        "degreeType": "B.S.",
+        "fieldOfStudy": "Computer Science",
+        "graduationYear": "2018"
+      }
+    ]
+  },
+  {
+    "candidate_name": "Bob Johnson",
+    "emailAddress": "bob.johnson@techco.io",
+    "phoneNumber": "+1 212 555 0202",
+    "currentTitle": "Staff Engineer",
+    "currentCompany": "TechCo",
+    "location": "New York, NY",
+    "linkedinUrl": "https://linkedin.com/in/bobjohnson",
+    "skillSet": ["Go", "Golang", "Kubernetes", "Docker", "AWS", "gRPC", "PostgreSQL"],
+    "yearsOfExperience": 10,
+    "summary": "Infrastructure and platform engineer specializing in distributed systems.",
+    "workHistory": [
+      {
+        "company": "TechCo",
+        "jobTitle": "Staff Engineer",
+        "startDate": "2020-01",
+        "endDate": "Present"
+      },
+      {
+        "company": "Big Bank",
+        "jobTitle": "Senior Engineer",
+        "startDate": "2015-09",
+        "endDate": "2019-12"
+      }
+    ],
+    "educationHistory": [
+      {
+        "school": "Columbia University",
+        "degreeType": "M.S.",
+        "fieldOfStudy": "Computer Science",
+        "graduationYear": "2014"
+      }
+    ]
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Chen",
+    "emailAddress": "alice.chen@startup.com",
+    "mobile": "6505550303",
+    "jobTitle": "Machine Learning Engineer",
+    "employer": "StartupXYZ",
+    "city": "Austin, TX",
+    "linkedin": "https://linkedin.com/in/alicechen",
+    "skills": "Python, TensorFlow, PyTorch, Pandas, NumPy, Spark",
+    "totalExperience": 5,
+    "bio": "Builds production ML pipelines and loves open-source."
+  },
+  {
+    "candidate_name": "Dana Park",
+    "emailAddress": "dana.park@newco.com",
+    "phoneNumber": "+82-10-9876-5432",
+    "currentTitle": "DevOps Engineer",
+    "currentCompany": "NewCo",
+    "location": "Seoul, KR",
+    "skillSet": ["Kubernetes", "Terraform", "AWS", "Linux", "Python", "Docker", "CI/CD"],
+    "yearsOfExperience": 4
+  }
+]

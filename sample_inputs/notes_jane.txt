@@ -1,0 +1,19 @@
+Recruiter Notes — Jane Smith
+Date: 2024-11-15
+
+Name: Jane Smith
+Phone: +1 (415) 555-0101
+Email: jane.smith@email.com
+
+Spoke with Jane today. She has around 7 years of experience and is actively looking.
+
+Key skills: Python, AWS, Docker, Django, PostgreSQL, REST API, microservices
+
+She mentioned working on a large-scale recommendation engine at Acme. Strong communicator.
+Interested in senior/staff-level roles at growth-stage startups.
+
+LinkedIn: https://linkedin.com/in/janesmith
+GitHub: https://github.com/janesmith
+
+Salary expectation: $180k–$200k base
+Available: 2 weeks notice

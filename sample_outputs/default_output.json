@@ -1,0 +1,728 @@
+[
+  {
+    "candidate_id": "cand_5a15de964211",
+    "full_name": "Jane Smith",
+    "emails": [
+      "jane.smith@email.com"
+    ],
+    "phones": [
+      "+14155550101"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "region": "CA",
+      "country": "US"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/janesmith",
+      "github": "https://github.com/janesmith",
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Senior Software Engineer at Acme Corp",
+    "years_experience": 7.0,
+    "skills": [
+      {
+        "name": "Python",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "Django",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "AWS",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "REST API",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "Git",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "Go",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Acme Corp",
+        "title": "Senior Software Engineer",
+        "start": "2021-03",
+        "end": null,
+        "summary": "Led backend API development for core platform."
+      },
+      {
+        "company": "Previous Inc",
+        "title": "Software Engineer",
+        "start": "2018-06",
+        "end": "2021-02",
+        "summary": "Built microservices with Python and Docker."
+      }
+    ],
+    "education": [
+      {
+        "institution": "UC Berkeley",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": 2018
+      }
+    ],
+    "summary": "Full-stack engineer with 7 years experience building scalable web services.",
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "linkedin",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "github",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "skills",
+        "source": "csv",
+        "method": "union"
+      },
+      {
+        "field": "years_experience",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "summary",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.932,
+    "_sources_used": [
+      "csv",
+      "notes",
+      "ats_json"
+    ]
+  },
+  {
+    "candidate_id": "cand_3d74565a1a0f",
+    "full_name": "Bob Johnson",
+    "emails": [
+      "bob.johnson@techco.io"
+    ],
+    "phones": [
+      "+14155550202",
+      "+12125550202"
+    ],
+    "location": {
+      "city": "New York",
+      "region": "NY",
+      "country": "US"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/bobjohnson",
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Staff Engineer at TechCo",
+    "years_experience": 10.0,
+    "skills": [
+      {
+        "name": "Go",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "AWS",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "Grpc",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "Redis",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "Kafka",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      },
+      {
+        "name": "Elasticsearch",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json",
+          "notes"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "TechCo",
+        "title": "Staff Engineer",
+        "start": "2020-01",
+        "end": null,
+        "summary": null
+      },
+      {
+        "company": "Big Bank",
+        "title": "Senior Engineer",
+        "start": "2015-09",
+        "end": "2019-12",
+        "summary": null
+      }
+    ],
+    "education": [
+      {
+        "institution": "Columbia University",
+        "degree": "M.S.",
+        "field": "Computer Science",
+        "end_year": 2014
+      }
+    ],
+    "summary": "Infrastructure and platform engineer specializing in distributed systems.",
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "linkedin",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "skills",
+        "source": "csv",
+        "method": "union"
+      },
+      {
+        "field": "years_experience",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "summary",
+        "source": "ats_json",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.932,
+    "_sources_used": [
+      "csv",
+      "notes",
+      "ats_json"
+    ]
+  },
+  {
+    "candidate_id": "cand_86dbc543aea7",
+    "full_name": "Alice Chen",
+    "emails": [
+      "alice.chen@startup.com"
+    ],
+    "phones": [
+      "+16505550303"
+    ],
+    "location": {
+      "city": "Austin",
+      "region": "TX",
+      "country": "US"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/alicechen",
+      "github": "https://github.com/alicechen89",
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "ML Engineer at StartupXYZ",
+    "years_experience": 5.0,
+    "skills": [
+      {
+        "name": "Python",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json"
+        ]
+      },
+      {
+        "name": "TensorFlow",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json"
+        ]
+      },
+      {
+        "name": "PyTorch",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Scikit-Learn",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Pandas",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json"
+        ]
+      },
+      {
+        "name": "NumPy",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Spark",
+        "confidence": 0.9,
+        "sources": [
+          "csv",
+          "ats_json"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "summary": "AI/ML engineer specializing in production ML systems.",
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "linkedin",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "github",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "skills",
+        "source": "csv",
+        "method": "union"
+      },
+      {
+        "field": "years_experience",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "summary",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.932,
+    "_sources_used": [
+      "csv",
+      "ats_json"
+    ]
+  },
+  {
+    "candidate_id": "cand_9f57a0b8bcfd",
+    "full_name": "Carlos Rivera",
+    "emails": [
+      "carlos@example.com"
+    ],
+    "phones": [
+      "+525512345678"
+    ],
+    "location": {
+      "city": "Mexico City",
+      "region": null,
+      "country": "MX"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/carlosrivera",
+      "github": "https://github.com/crivera",
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Frontend Developer at OpenSource Inc",
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "JavaScript",
+        "confidence": 0.9,
+        "sources": [
+          "csv"
+        ]
+      },
+      {
+        "name": "React",
+        "confidence": 0.9,
+        "sources": [
+          "csv"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "confidence": 0.9,
+        "sources": [
+          "csv"
+        ]
+      },
+      {
+        "name": "Node.js",
+        "confidence": 0.9,
+        "sources": [
+          "csv"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "summary": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "linkedin",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "github",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "skills",
+        "source": "csv",
+        "method": "union"
+      }
+    ],
+    "overall_confidence": 0.9,
+    "_sources_used": [
+      "csv"
+    ]
+  },
+  {
+    "candidate_id": "cand_c8dcc14ff204",
+    "full_name": "Dana Park",
+    "emails": [
+      "dana.park@newco.com"
+    ],
+    "phones": [
+      "+821098765432"
+    ],
+    "location": {
+      "city": "Seoul",
+      "region": null,
+      "country": "KR"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "DevOps Engineer at NewCo",
+    "years_experience": 4.0,
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Terraform",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "AWS",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Linux",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "CI/CD",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "summary": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json",
+        "method": "union"
+      },
+      {
+        "field": "years_experience",
+        "source": "ats_json",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.85,
+    "_sources_used": [
+      "ats_json"
+    ]
+  }
+]
