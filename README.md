@@ -14,19 +14,31 @@ Eightfold AI take-home assignment. Ingests candidate data from CSVs, ATS JSON bl
 ## Quick start
 
 ```bash
-# 1. Install dependencies
-pip install phonenumbers pycountry python-dateutil requests
+# 1. Clone the repo
+git clone https://github.com/yourusername/eightfold-assignment.git
+cd eightfold-assignment
 
-# 2. Run on all sample inputs (default output schema)
-python cli.py \
+# 2. Install dependencies
+pip3 install phonenumbers pycountry python-dateutil requests flask
+
+# 3. Run the web UI
+python3 app.py
+# Open http://localhost:8080 in your browser
+```
+
+Or use the CLI directly:
+
+```bash
+# Run on all sample inputs (default output schema)
+python3 cli.py \
   --csv sample_inputs/candidates.csv \
   --ats-json sample_inputs/ats_data.json \
   --notes sample_inputs/notes_jane.txt \
   --notes sample_inputs/notes_bob.txt \
   --pretty
 
-# 3. Run with a custom output config
-python cli.py \
+# Run with a custom output config
+python3 cli.py \
   --csv sample_inputs/candidates.csv \
   --ats-json sample_inputs/ats_data.json \
   --notes sample_inputs/notes_jane.txt \
@@ -34,16 +46,26 @@ python cli.py \
   --pretty \
   --out sample_outputs/custom_output.json
 
-# 4. Run tests
-python -m pytest tests/ -v
+# Run tests
+python3 -m pytest tests/ -v
 ```
+
+## Web UI
+
+```bash
+python3 app.py
+```
+
+Open **http://localhost:8080** — upload your files, paste a config, click Run.
+
+![Web UI](https://img.shields.io/badge/UI-localhost%3A8080-blue?style=flat-square)
 
 ---
 
 ## CLI reference
 
 ```
-python cli.py [OPTIONS]
+python3 cli.py [OPTIONS]
 
 Source options (mix freely; at least one required):
   --csv PATH           Recruiter CSV export
@@ -181,7 +203,7 @@ A missing value is always `null` — never invented from partial signals.
 ## Running tests
 
 ```bash
-python -m pytest tests/ -v
+python3 -m pytest tests/ -v
 # 63 passed in ~0.2s
 ```
 
