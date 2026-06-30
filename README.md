@@ -1,3 +1,5 @@
+LIVE LINK OF PROJECT - https://candidate-data-transformer-1n54.onrender.com/
+
 # Multi-Source Candidate Data Transformer
 
 > A deterministic pipeline that merges candidate data from multiple structured and unstructured sources into one canonical profile — with provenance, confidence scoring, and a configurable output layer.
